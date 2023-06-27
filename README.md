@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsannbat
 - 👀 I’m interested in coding, hiking, skiing and reading
-- 🌱 I’m currently learning a little bit of react and svelte
+- 🌱 I’m currently learning react
 
 <!---
 itsannbat/itsannbat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
